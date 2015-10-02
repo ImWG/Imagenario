@@ -19,7 +19,7 @@ import javax.swing.JOptionPane;
 
 public class Imagenario {
 	
-	public static final String VERSION = "0.2";
+	public static final String VERSION = "0.4";
 	
 	static int[] PLAYER_PALETTE = {
 		0xffffff, 0x0000ff, 0xff0000, 0x00ff00, 0xffff00, 
